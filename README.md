@@ -1,6 +1,6 @@
-### 👋 Olá! Eu sou o Pedro Terra
+### 👋 Olá! Meu nome é Pedro Terra
 
-Sou Desenvolvedor Backend focado na criação de **APIs REST** com **Node.js**.  
+Sou Desenvolvedor Backend focado atualmente na criação de **APIs REST** com **Node.js**.  
 Gosto de estruturar aplicações de forma clara, organizada e escalável, sempre buscando aprender novas formas de tornar sistemas mais eficientes e fáceis de manter.
 
 Atualmente, curso **Engenharia de Software** e sigo aprofundando meus conhecimentos em backend, bancos de dados e arquitetura de software.
@@ -43,7 +43,7 @@ Atualmente, curso **Engenharia de Software** e sigo aprofundando meus conhecimen
 | **Sistema com Docker** | Aplicação conteinerizada com múltiplos serviços | Docker, Node.js, SQL |
 | **Experimentos com React + APIs** | Consumo de API no Front | React, Fetch/AXIOS |
 
-> *(À medida que evoluir seus projetos, podemos atualizar esta tabela e deixá-la muito mais forte 💥)*
+> 
 
 ---
 

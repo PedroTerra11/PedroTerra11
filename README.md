@@ -33,5 +33,5 @@ Participei do **Programa Lions Dev**, onde aperfeiçoei práticas essenciais par
 
 ### 🌐 Contato
 Se quiser conversar, trocar ideias ou colaborar em projetos:  
-**LinkedIn:** _(adicione seu link de perfil aqui)_
+**LinkedIn:** https://www.linkedin.com/in/pedro-oleniki-terra-914665267/
 

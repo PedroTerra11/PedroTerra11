@@ -2,7 +2,7 @@
 
 Estudante de **Engenharia de Software (6º período)**, com atuação focada em desenvolvimento backend utilizando **JavaScript (Node.js)**. Experiência na construção de **APIs REST** estruturadas e integração com **MongoDB**, incluindo modelagem de dados, camadas de controle e organização das rotas. 
 
-Participei do **Programa Lions Dev**, onde aperfeiçoei práticas essenciais para o desenvolvimento web, trabalho em equipe e fluxo de versionamento utilizando Git e GitHub.
+Participei do **Programa Lions Dev**, onde aperfeiçoei práticas essenciais para o desenvolvimento utilizando Node.js com CRUD completo, trabalho em equipe e fluxo de versionamento utilizando Git e GitHub.
 
 ---
 

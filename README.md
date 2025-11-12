@@ -15,6 +15,9 @@ Atualmente, curso **Engenharia de Software** e sigo aprofundando meus conhecimen
 
 #### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Ambiente & Versionamento
 
 #### Ambiente & Versionamento
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
